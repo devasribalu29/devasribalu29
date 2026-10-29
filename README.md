@@ -35,7 +35,6 @@
 
 ## 📜 Certifications & Learning
 
-- Microsoft Power BI Data Analyst Professional Certificate — Coursera
 - AI in Healthcare — Coursera
 - Preparing for Microsoft PL-300
 
